@@ -1,0 +1,14 @@
+{
+  "editor": {
+    "spc_system": "SPC System",
+    "header": "Header",
+    "appearance": "Appearance",
+    "hide_events": "Hide SPC event text messages",
+    "hide_areas_tab": "Hide Areas tab",
+    "hide_zones_tab": "Hide Zones tab",
+    "hide_outputs_tab": "Hide Outputs tab",
+    "hide_doors_tab": "Hide Doors tab"
+  },
+  "errors": {
+  }
+}
