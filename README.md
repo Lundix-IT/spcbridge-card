@@ -7,22 +7,22 @@ The card works on top of the [spcbridge custom component](https://github.com/Lun
 You cannot use it with any other alarm integration in HA.
 
 ## System View
-![alt text](https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-system.png?raw=true "System View")
+<img src="https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-system.png" width="300">
 
 ## Areas View
-![alt text](https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-areas.png?raw=true "Areas View")
+<img src="https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-areas.png" width="300">
 
 ## Zones View
-![alt text](https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-zones.png?raw=true "Zones View")
+<img src="https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-zones.png" width="300">
 
 ## Outputs View
-![alt text](https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-outputs.png?raw=true "Outputs View")
+<img src="https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-outputs.png" width="300">
 
 ## Doors View
-![alt text](https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-doors.png?raw=true "Doors View")
+<img src="https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-doors.png" width="300">
 
 ## Keypad
-![alt text](https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-keypad.png?raw=true "Keypad")
+<img src="https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-keypad.png" width="300">
 
 ## Arming Countdown
-![alt text](https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-countdown.png?raw=true "Arming Countdown")
+<img src="https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-countdown.png" width="300">
