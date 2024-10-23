@@ -9,10 +9,10 @@ You cannot use it with any other alarm integration in HA.
 ## Installation
 Before you install this card, ensure that you have installed and configured the Vanderbilt SPC Bridge integration, spcbridge.
 
-1. Download the latest release of `spcbridge-card.js` and place it into `config/www/`.
-2. In HA GUI; Select Settings -> Dashboards -> Resources (in the menu in the upper right corner) and add `/local/spcbridge-card.js` as a javascript module.
-3. Restart Home Assistant
-4. Edit a dashboard and add the card `Custom: spcbridge-card`
+1. Download the latest release of `spcbridge-card.js` and place it into directory `config/www/` (You have to create the www directory if it doesn't exists).
+2. Restart Home Assistant
+3. In HA GUI; Select Settings -> Dashboards -> Resources (in the menu in the upper right corner) and add `/local/spcbridge-card.js` as a javascript module.
+5. Edit a dashboard and add the card `Custom: spcbridge-card`
 
 ## System View
 <img src="https://github.com/Lundix-IT/spcbridge-card/blob/main/screenshots/spc-ha-system.png" width="300">
