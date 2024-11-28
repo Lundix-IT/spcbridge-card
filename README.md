@@ -6,7 +6,8 @@ The card works on top of the [spcbridge custom component](https://github.com/Lun
 
 You cannot use it with any other alarm integration in HA.
 
-[![Watch the video](https://i9.ytimg.com/vi/QRNuylG4g1g/mqdefault.jpg?v=67485336&sqp=CIDcoboG&rs=AOn4CLDehC6EiebEdJ3hvWXk4p1lRtHmZA)](https://youtu.be/QRNuylG4g1g?si=S99BWHYj7kMYaOIM)
+Watch the demo video:<br>
+[<img src="https://i9.ytimg.com/vi/QRNuylG4g1g/mqdefault.jpg?v=67485336&sqp=CIDcoboG&rs=AOn4CLDehC6EiebEdJ3hvWXk4p1lRtHmZA" width="40%">](https://youtu.be/QRNuylG4g1g?si=S99BWHYj7kMYaOIM)
 
 
 ## Installation
