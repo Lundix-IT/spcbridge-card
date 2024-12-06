@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lundix-IT/spcbridge-card.git"
+    "url": "https://github.com/Lundix-IT/spcbridge-card.git"
   },
   "author": "Goran Lundquist, Lundix IT <info@lundix.se>",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://www.lundix.se",
   "type": "module",
   "devDependencies": {
