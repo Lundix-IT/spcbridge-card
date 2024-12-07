@@ -4,9 +4,8 @@
   "description": "Home Assistant Lovelace card for Vanderbilt SPC",
   "main": "dist/spcbridge-card.js",
   "scripts": {
-    "build": "npm run lint && npm run rollup && npm run babel",
+    "build": "npm run lint && npm run rollup",
     "rollup": "rollup -c",
-    "babel": "babeljs dist/spcbridge-card.js --out-file dist/spcbridge-card.js",
     "lint": "eslint --fix src/*.ts",
     "start": "rollup -c --watch"
   },
