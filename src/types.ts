@@ -1,3 +1,5 @@
+/* eslint-disable  @typescript-eslint/no-explicit-any */
+
 import { HomeAssistant } from 'custom-card-helpers';
 
 export type CardConfig = {

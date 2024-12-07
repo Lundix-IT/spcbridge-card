@@ -12,13 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lundix-IT/spcbridge-card.git"
+    "url": "https://github.com/Lundix-IT/spcbridge-card.git"
   },
   "author": "Goran Lundquist, Lundix IT <info@lundix.se>",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://www.lundix.se",
   "type": "module",
   "devDependencies": {
+    "@babel/cli": "^7.26.4",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
     "@eslint/js": "^9.12.0",
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-json": "^6.1.0",

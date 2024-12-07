@@ -1,0 +1,6 @@
+{
+  "name": "Vanderbilt SPC Bridge",
+  "filename": "spcbridge-card.js",
+  "homeassistant": "2023.10.0",
+  "render_readme": true
+}
